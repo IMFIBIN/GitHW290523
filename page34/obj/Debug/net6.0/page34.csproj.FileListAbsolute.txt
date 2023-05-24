@@ -1,0 +1,15 @@
+C:\GBHW\GitHW290523\page34\bin\Debug\net6.0\page34.exe
+C:\GBHW\GitHW290523\page34\bin\Debug\net6.0\page34.deps.json
+C:\GBHW\GitHW290523\page34\bin\Debug\net6.0\page34.runtimeconfig.json
+C:\GBHW\GitHW290523\page34\bin\Debug\net6.0\page34.dll
+C:\GBHW\GitHW290523\page34\bin\Debug\net6.0\page34.pdb
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.csproj.AssemblyReference.cache
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.GeneratedMSBuildEditorConfig.editorconfig
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.AssemblyInfoInputs.cache
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.AssemblyInfo.cs
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.csproj.CoreCompileInputs.cache
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.dll
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\refint\page34.dll
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.pdb
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\page34.genruntimeconfig.cache
+C:\GBHW\GitHW290523\page34\obj\Debug\net6.0\ref\page34.dll
